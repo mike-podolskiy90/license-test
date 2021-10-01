@@ -17,11 +17,11 @@
         <configuration>
           <java>
             <licenseHeader>
-              <file>https://raw.githubusercontent.com/mike-podolskiy90/gbif-httputils/master/1-gbif-license-header</file>
+              <file>https://raw.githubusercontent.com/gbif/gbif-httputils/master/gbif-license-header</file>
             </licenseHeader>
             <removeUnusedImports />
             <importOrder>
-              <file>https://raw.githubusercontent.com/mike-podolskiy90/gbif-httputils/master/gbif.importorder</file>
+              <file>https://raw.githubusercontent.com/gbif/gbif-httputils/master/gbif.importorder</file>
             </importOrder>
           </java>
         </configuration>
