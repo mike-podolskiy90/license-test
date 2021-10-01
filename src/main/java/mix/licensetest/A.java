@@ -15,5 +15,17 @@
  */
 package mix.licensetest;
 
+import java.util.UUID;
+import java.util.List;
+import java.util.Map;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Collection;
+
 public class A {
+
+  public static void main(String[] args) {
+    List<String> list = new ArrayList<String>();
+    Map<String, String> map = new HashMap<String, String>();
+  }
 }
